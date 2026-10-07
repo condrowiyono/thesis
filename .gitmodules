@@ -1,0 +1,3 @@
+[submodule "latex-ta-ui"]
+	path = latex-ta-ui
+	url = https://gitlab.com/ichlaffterlalu/latex-ta-ui.git
